@@ -1,0 +1,2 @@
+rootProject.name = "Proto2"
+include ':app'
